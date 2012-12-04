@@ -2,3 +2,4 @@ cat plik.txt | grep [^\n]
 cat pl* | grep ^[[:digit:]]
 cat *.* | grep ^........r
 grep -c /bash /etc/passwd
+cat plik.txt | grep [IVXLMCD]
